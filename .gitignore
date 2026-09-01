@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.idea/
+.vscode/
+.spyproject/
+.spyderproject
+.ipynb_checkpoints/
+weights_comparison.png
+cvar_efficient_frontier.png
